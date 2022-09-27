@@ -11,5 +11,6 @@
   "function-runtime": "dotnet6",
   "function-memory-size": 256,
   "function-timeout": 30,
-  "function-handler": "Dotnetlambda::Dotnetlambda.Function::FunctionHandler"
+  "function-handler": "Dotnetlambda::Dotnetlambda.Function::FunctionHandler",
+  "function-role": "arn:aws:iam::633282583713:user/testUserLambda"
 }
