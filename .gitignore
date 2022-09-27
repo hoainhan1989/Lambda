@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Dotnetlambda/src/Dotnetlambda/.vs/Dotnetlambda/FileContentIndex
+/Dotnetlambda/src/Dotnetlambda/bin/Debug/net6.0
+/Dotnetlambda/src/Dotnetlambda/obj
